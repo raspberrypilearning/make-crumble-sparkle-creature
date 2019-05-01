@@ -1,6 +1,6 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Add project description here. What will learners be making? Sparkle creature.
 
 ### What you will make
 
