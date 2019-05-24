@@ -1,19 +1,19 @@
 ## Introduction
 
-Add project description here. What will learners be making? Sparkle creature.
+You will use your making skills to build a model 'creature' using Crumble Sparkles for its eyes. You will write code using Crumble software to control how your creature's eyes light up.
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+It is up to you what your creature looks like and how its eyes flash, glow and change colour.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+--- no-print ---
+
+![Complete project GIF](images/finsihed_creature.gif)
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![Complete project](images/finsihed_creature.png)
 --- /print-only ---
 
 --- collapse ---
