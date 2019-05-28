@@ -2,11 +2,6 @@
 
 Let's start with a really simple two Sparkle code.
 
-
-
-
-Now that we have one Sparkle working, let's add another one! This time we will use RGB (red, green and blue) values to set our Sparkle's colour.
-
 --- task ---
 
 Open the Crumble software on your computer and click the play button just to check that the computer and Crumble are talking to each other.
@@ -23,6 +18,8 @@ From the `Basic`{:class="crumblebasic"} palette, grab the `program start`{:class
 
 Now switch to the `Sparkles`{:class="crumblesparkles"} palette and take a `set sparkle 0 to`{:class="crumblesparkles"} with a colour picker box, and connect it under the `program start`{:class="crumblebasic"} block.
 
+![Program start and set Sparkle blocks](images/stage4code1.png)
+
 --- /task ---
 
 --- task ---
@@ -32,6 +29,8 @@ Right-click on the `set sparkle 0 to`{:class="crumblesparkles"} block and click 
 ![Duplicating a block](images/duplicateSetSparkleBlock.png)
 
 Connect the duplicated block and connect it underneath. Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"} block and change it to 1.
+
+![Program start and two set Sparkle blocks](images/stage4code2.png)
 
 Note: The numbering system starts at 0, so the first Sparkle is 'Sparkle 0' and the second is 'Sparkle 1'.
 
@@ -43,11 +42,15 @@ Click on the colour picker boxes to choose a new colour for each of the Sparkles
 
 ![Colour picker on Windows version](images/winColPick.png)
 
+Note: The colour picker box will appear different depending on what operating sysyem you are using.
+
+![Program start and final set Sparkle blocks](images/stage4code3.png)
+
 Once you are done, click the play button to run the code and see your Sparkles light up.
 
-![Lit up Sparkle Creature](images/litUpCreature.png)
-
 --- /task ---
+
+![Lit up Sparkle Creature](images/litUpCreature.png)
 
 Now we need to add some code to make the second Sparkle turn on.
 
