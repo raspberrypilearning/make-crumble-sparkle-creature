@@ -6,3 +6,28 @@ In the Getting started with Crumble project we learned how to connect up a Crumb
 
 ![Wiring a single Sparkle](images/cardboardSupport1.png)
 
+Now it's time to connect a second Sparkle to the first one.
+
+--- task ---
+
+
+
+--- /task ---
+
+--- task ---
+
+
+
+--- /task ---
+
+--- task ---
+
+
+
+--- /task ---
+
+--- task ---
+
+
+
+--- /task ---
