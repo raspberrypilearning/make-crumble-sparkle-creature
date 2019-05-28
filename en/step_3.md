@@ -62,16 +62,12 @@ Note: When you look at the front of a Sparkle, the inputs are on the left-hand s
 
 --- task ---
 
-
+If they are not already connected, connect the positve lead going to the first Sparkle (Sparkle 0) to the positive output from the Crumble. Then connect the negative to negative, and signal 'D' lead to the 'D' terminal of the Crumble
 
 ![Connecting leads to the Crumble](images/creatureSparklesBack.png)
 
 --- /task ---
 
---- task ---
-
-
+That's it. Your creature should now be good to go, and ready to be coded!
 
 ![Fully connected creature](images/creatureSparklesStanding.png)
-
---- /task ---
