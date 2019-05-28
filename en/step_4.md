@@ -1,14 +1,51 @@
-## More Sparkle with RGB colour code
+## Coding two Sparkles
+
+Let's start with a really simple two Sparkle code.
+
+
+
 
 Now that we have one Sparkle working, let's add another one! This time we will use RGB (red, green and blue) values to set our Sparkle's colour.
 
 --- task ---
 
-Our second Sparkle will simply 'daisy chain' onto the first Sparkle. Where we attached croc clips going from the Crumble to the left hand side of the Sparkle, we will now do the same thing going from the right side of the first Sparkle tot he left side of the second Sparkle.
+Open the Crumble software on your computer and click the play button just to check that the computer and Crumble are talking to each other.
 
-NOTE: Just like before, make sure that you connect positive to positve, negative to negative and signal (D) to signal (D).
+You should get the message "programming successful".
 
-![Wiring a second Sparkle](images/secondSparkleWire.jpg)
+![Crumble successfully connected message](images/progSuccess.png)
+
+From the `Basic`{:class="crumblebasic"} palette, grab the `program start`{:class="crumblebasic"} block that starts every bit of Crumble code.
+
+--- /task ---
+
+--- task ---
+
+Now switch to the `Sparkles`{:class="crumblesparkles"} palette and take a `set sparkle 0 to`{:class="crumblesparkles"} with a colour picker box, and connect it under the `program start`{:class="crumblebasic"} block.
+
+--- /task ---
+
+--- task ---
+
+Right-click on the `set sparkle 0 to`{:class="crumblesparkles"} block and click 'Duplicate'. 
+
+![Duplicating a block](images/duplicateSetSparkleBlock.png)
+
+Connect the duplicated block and connect it underneath. Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"} block and change it to 1.
+
+Note: The numbering system starts at 0, so the first Sparkle is 'Sparkle 0' and the second is 'Sparkle 1'.
+
+--- /task ---
+
+--- task ---
+
+Click on the colour picker boxes to choose a new colour for each of the Sparkles. 
+
+![Colour picker on Windows version](images/winColPick.png)
+
+Once you are done, click the play button to run the code and see your Sparkles light up.
+
+![Lit up Sparkle Creature](images/litUpCreature.png)
 
 --- /task ---
 
