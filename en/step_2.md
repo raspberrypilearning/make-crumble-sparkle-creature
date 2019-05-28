@@ -78,15 +78,14 @@ Your creature should now be able to stand on its own two feet... or as many feet
 
 ![Standing creature](images/creatureStanding.png)
 
---- task ---
-
-
-
---- /task ---
+My creature still needs arms!
 
 --- task ---
 
+Stick any extra bits that you have for your creature. My creature needs arms but your might have a tail, ears, wings, a unicorn horn, antennae or whatever you like.
 
+You can fix these in place with cool melt glue or have them moving using split pin paper fasteners. I decided to go half-way between fixed and moving and attached mine with Blu Tack.
+
+![Finished creature](images/creatureWithArms.png)
 
 --- /task ---
-
