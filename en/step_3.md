@@ -12,7 +12,9 @@ Now it's time to connect a second Sparkle to the first one. The positive, negati
 
 --- task ---
 
-Connect a croc clip from the first Sparkle's positive (+) output terminal on the right-hand side to the second Sparkle's positive (+) input terminal on the left-hand side. Then repeat this for the negative (-) output to negative (-) input, and finally, signal (D) output from the first Sparkle to the signal (D) input on the second Sparkle.
+Connect a croc clip from the first Sparkle's positive (+) output terminal on the right-hand side to the second Sparkle's positive (+) input terminal on the left-hand side.
+
+Repeat this for the negative (-) output to negative (-) input, and finally, signal (D) output from the first Sparkle to the signal (D) input on the second Sparkle.
 
 ![Connect second Sparkle](images/secondSparkleWireAgain.png)
 
