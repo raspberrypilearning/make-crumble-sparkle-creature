@@ -1,3 +1,8 @@
-## What next?
+## Connecting the Sparkles
 
-Link to next project in the series or another project that could be completed after this
+In the Getting started with Crumble project we learned how to connect up a Crumble Sparkle to the Crumble controller board by connecting the Crumble's positive output to the Sparkle's positive input, negative output to negative input and the Crumble's 'D' terminal to the Sparkle's 'D' terminal input.
+
+[[[connect-single-sparkle]]]
+
+![Wiring a single Sparkle](images/cardboardSupport1.png)
+
