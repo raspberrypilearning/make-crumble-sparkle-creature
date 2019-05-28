@@ -20,9 +20,23 @@ Repeat this for the negative (-) output to negative (-) input, and finally, sign
 
 --- /task ---
 
+That's our complete setup and if you want, you can just attach this straight to your creature and you are ready to start coding. It is a little tricky so now that we know exactly how it all goes together, it might be easier to take the leads off and then start by fixing the Sparkles to our creature.
+
 --- task ---
 
+Once you have removed the leads, fix the two Sparkles in place being careful to note which way up they are. In this project the positive (+) terminal is at the top and the 'D' terminal at the bottom.
 
+I have used a little Blu Tack at the top and bottom of each Sparkle. Whatever you use, just make sure that the Sparkle terminals are accessible.
+
+![Fxing the Sparkles with Blu Tack](images/sparklesBluTack.png)
+
+I have actually marked which terminal is which AND the direction from Sparkle 0 to Sparkle 1. 
+
+Note: If you get the direction wrong and connect the Crumble directly to the Sparkle's output, the Sparkles will not light up!
+
+If the Saprkles are a little loose you could add a thin strip of tape across the middle.
+
+![Fxing the Sparkles with masking tape](images/sparklesMaskingTape.png)
 
 --- /task ---
 
