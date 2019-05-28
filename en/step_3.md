@@ -4,7 +4,7 @@ In the Getting started with Crumble project we learned how to connect up a Crumb
 
 [[[connect-single-sparkle]]]
 
-![Wiring a single Sparkle](images/cardboardSupport1.png)
+![Wiring a single Sparkle](images/sparkleSignal.png)
 
 Now it's time to connect a second Sparkle to the first one. The positive, negative and signal (D) pass through the first Sparkle and output to the second Sparkle.
 
