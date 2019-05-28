@@ -30,7 +30,7 @@ I have used a little Blu Tack at the top and bottom of each Sparkle. Whatever yo
 
 ![Fxing the Sparkles with Blu Tack](images/sparklesBluTack.png)
 
-I have actually marked which terminal is which AND the direction from Sparkle 0 to Sparkle 1. 
+I have actually marked which terminal is which AND the direction (with arrows) from Sparkle 0 to Sparkle 1. 
 
 Note: If you get the direction wrong and connect the Crumble directly to the Sparkle's output, the Sparkles will not light up!
 
@@ -42,12 +42,20 @@ If the Saprkles are a little loose you could add a thin strip of tape across the
 
 --- task ---
 
+Now connect the leads between the two Sparkles, potove to positive, negative to negative and signal (D) to signal (D). 
 
+As long as the Sparkles are the same way up, this will always be the sets of terminals next to each other in the middle of your creature.
+
+![Connecting Sparkle 0 to Sparkle 1](images/sparkles1to2.png)
 
 --- /task ---
 
 --- task ---
 
+Now connect the leads that will come from the Crumble itself. Make sure they go to the input terminals of Sparkle 0.
 
+Note: When you look at the front of a Sparkle, the inputs are on the left-hand side. Wiring up your creature, you are seeing the Sparkle from the back so the inputs are on the right-hand side as in the image below.
+
+![Connecting leads to go to the Crumble](images/sparkles1tocrumble.png)
 
 --- /task ---
