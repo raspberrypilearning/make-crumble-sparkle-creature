@@ -59,3 +59,19 @@ Note: When you look at the front of a Sparkle, the inputs are on the left-hand s
 ![Connecting leads to go to the Crumble](images/sparkles1tocrumble.png)
 
 --- /task ---
+
+--- task ---
+
+
+
+![Connecting leads to the Crumble](images/creatureSparklesBack.png)
+
+--- /task ---
+
+--- task ---
+
+
+
+![Fully connected creature](images/creatureSparklesStanding.png)
+
+--- /task ---
