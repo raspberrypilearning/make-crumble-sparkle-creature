@@ -28,10 +28,13 @@ Note: The components below are all included in the Crumble starter kit but can a
 + Two Crumble Sparkles
 + A 3xAA battery pack
 + Crocodile leads
++ Materials to make your 'creature', e.g. card, cardboard and pens
++ tools to make your creature, e.g. glue or tape, and scissors
+Note: What materials and tools you need will depend on the creature you choose to make.
 
 ### Software
 
-+ [Crumble software](https://redfernelectronics.co.uk/crumble-software/){:target="_blank"}.
++ [Crumble software](https://redfernelectronics.co.uk/crumble-software/){:target="_blank"}
 
 ### Downloads
 
@@ -44,9 +47,9 @@ Note: The components below are all included in the Crumble starter kit but can a
 title: What you will learn
 ---
 
-+ How tow 
-+ Two or three learning objectives
-+ ...should go here
++ How to connect multiple Crumble Sparkles to a Crumble controller
++ How to randomise the colour of your Sparkles
++ How to use variables to control the colour of your Sparkles
 
 --- /collapse ---
 
