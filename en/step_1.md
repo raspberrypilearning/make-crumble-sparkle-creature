@@ -22,13 +22,16 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A PC, Mac or Chromebook with Crumble software installed and a USB port
+Note: The components below are all included in the Crumble starter kit but can also be bought separately.
++ A Crumble controller
++ Two Crumble Sparkles
++ A 3xAA battery pack
++ Crocodile leads
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ [Crumble software](https://redfernelectronics.co.uk/crumble-software/){:target="_blank"}.
 
 ### Downloads
 
@@ -41,6 +44,7 @@ title: What you will need
 title: What you will learn
 ---
 
++ How tow 
 + Two or three learning objectives
 + ...should go here
 
