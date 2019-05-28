@@ -23,13 +23,16 @@ title: What you will need
 ### Hardware
 
 + A PC, Mac or Chromebook with Crumble software installed and a USB port
+
 Note: The components below are all included in the Crumble starter kit but can also be bought separately.
+
 + A Crumble controller
 + Two Crumble Sparkles
 + A 3xAA battery pack
 + Crocodile leads
 + Materials to make your 'creature', e.g. card, cardboard and pens
 + tools to make your creature, e.g. glue or tape, and scissors
+
 Note: What materials and tools you need will depend on the creature you choose to make.
 
 ### Software
@@ -38,7 +41,7 @@ Note: What materials and tools you need will depend on the creature you choose t
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ [rpf.io/project-name-go](http://rpf.io/make-crumble-sparkle-creature-go){:target="_blank"}
 
 --- /collapse ---
 
@@ -58,8 +61,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/http://rpf.io/p/en/scratch-cat-goes-skiing-get/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/http://rpf.io/p/en/make-crumble-sparkle-creature-go/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/http://rpf.io/p/en/scratch-cat-goes-skiing-get-go).
+[Here is a link to the resources for this project](http://rpf.io/http://rpf.io/p/en/make-crumble-sparkle-creature-go).
 
 --- /collapse ---
