@@ -32,27 +32,51 @@ Thin cardboard is still fairly easy to cut with normal scissors but there are ma
 
 --- task ---
 
-Cut your creature
+Cut your creature shape out.
+
+If you are using scissors, and especially if you are cutting curves and complicated shapes, it is much easier to cut the rough shape out first and get rid of as much of the waste material (the bits you are cuttign away) as possible.
+
+![Cut the shape out roughly first](images/cutoutRough.png)
+
+Now it is much easier to accurately cut your shape out just cutting a little of the card or cardboard off.
+
+![Cut the detailed shape](images/cutoutDetail.png)
+
+--- /task ---
+
+As IO have used quite thin card, I know my creature will start to flop around a bit once it has Sparkles and leads attached so I am going to strenghten it up with a bit of carboard.
+
+--- task ---
+
+If your creature needs a support too, draw round your creature shape on a bit of cardboard, and then mark where the Sparkles will go so we can avoid that area.
+
+In the space that is left, mark out the shape of your support piece so that it stays clearly inside the lines of your creature shape.
+
+![Making a cardboard support](images/cardboardSupportPlan.png)
 
 --- /task ---
 
 --- task ---
 
+Cut the cardboard support out and stick it to the back of your creature. 
 
+![Sticking the cardboard support](images/cardboardSupport1.png)
 
---- /task ---
-
---- task ---
-
-
+I used a cool melt glue gun, but you could also use double-sided tape or even PVA glue if you can wait for it to dry (about half an hour).
 
 --- /task ---
 
 --- task ---
 
+Now add another piece of cardboard at 90° to the support to let your creature stand up.
 
+![Sticking the cardboard support stand](images/cardboardSupport2.png)
 
 --- /task ---
+
+Your creature should now be able to stand on its own two feet... or as many feet as you gave your creature!
+
+![Standing creature](images/creatureStanding.png)
 
 --- task ---
 
