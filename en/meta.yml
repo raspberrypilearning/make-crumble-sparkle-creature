@@ -13,7 +13,8 @@ steps:
   - title: Coding Sparkle colours using RGB values
   - title: Colour sequence 1 - Sparkle 0
   - title: Colour sequence 2 - both Sparkles
-  - title: some old stuff
+  - title: "Challenge: Traffic light eyes"
+    challenge: true
   - title: Colour sequences
   - title: Two Sparkle sequencing
   - title: "Challenge: follow me colour sequence"
