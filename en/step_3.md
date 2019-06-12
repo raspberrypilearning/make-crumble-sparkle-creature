@@ -8,7 +8,7 @@ Connect a Sparkle to your Crumble controller as we did in the Getting Started wi
 
 [[[connect-single-sparkle]]]
 
-![Wiring a single Sparkle](images/sparkleSignal.png)
+![Wiring a single Sparkle](images/sparkleSignalSA.png)
 
 --- /task ---
 
@@ -22,7 +22,7 @@ Connect a croc clip from the first Sparkle's positive (+) output terminal on the
 
 Repeat this for the negative (-) output to negative (-) input, and finally, signal (D) output from the first Sparkle to the signal (D) input on the second Sparkle.
 
-![Connect second Sparkle](images/secondSparkleWireAgain.png)
+![Connect second Sparkle](images/secondSparkleWireAgainSA.png)
 
 --- /task ---
 

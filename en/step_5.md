@@ -30,9 +30,17 @@ As usual we start with the `program start`{:class="crumblebasic"} block that sta
 
 ![Set Sparkle to user defined RGB code](images/SparkleRGBblocks0and0.png)
 
+--- /task ---
+
+--- task ---
+
 Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} block and change it to 1.
 
 ![Set Sparkle to user defined RGB code](images/SparkleRGBblocks0and1.png)
+
+--- /task ---
+
+--- task ---
 
 Enter a value in each or the `red`{:class="block3myblocks"}, `green`{:class="block3operators"} and `blue`{:class="block3motion"} input boxes in both `set sparkle to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} blocks.
 
