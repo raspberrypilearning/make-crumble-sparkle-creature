@@ -1,4 +1,4 @@
-## Colour sequence #1 - Sparkle 0
+## Colour sequence 1 - Sparkle 0
 
 Now we are going to look at changing our Sparkles' colours and creating a colour sequence.
 
