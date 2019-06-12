@@ -22,7 +22,7 @@ Google have a neat little [RGB colour picker](https://www.google.com/search?q=co
 
 [![Google's colour picker with RGB values](images/googleColourPicker.png)](https://www.google.com/search?q=color+picker){:target="_blank"}
 
-Click on the [link](https://www.google.com/search?q=color+picker){:target="_blank"}, then click or drag the slider and colour space to find the colour of your choice. The RGB values will show to the left.
+Click [this link](https://www.google.com/search?q=color+picker){:target="_blank"} then click or drag the slider and colour space to find the colour of your choice. The RGB values will show to the left.
 
 --- task ---
 
@@ -46,17 +46,18 @@ Click the green 'play' triangle to run your code and see what colour combination
 
 --- /task ---
 
-The Crumble software does not give you any visual indication as to what your RGB value combination will produce but it's fun to experiment with different mixes. Predict what your combination will produce, run your code and see if you were right!
+The Crumble software does not give you any visual indication as to what your RGB value combination will produce but it's fun to experiment with different mixes. Predict what your combination will produce, run your code and see if 
+you were right!
+
+--- task ---
+
+Play around wit the RGB values. 
 
 What colour do you think red:255, green:0 & blue:255 will give you?
 
 What colour do you think red:255, green:255 & blue:0 will give you?
 
 How would you combine red, green and blue values to get orange?
-
---- task ---
-
-Play around wit the RGB values. 
 
 Choose a colour and try and find the right values to make that colour, or choose the RBG values and try to predict what colour you will get.
 
