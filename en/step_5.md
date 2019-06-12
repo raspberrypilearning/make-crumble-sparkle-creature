@@ -36,17 +36,7 @@ Enter a value in each or the `red`{:class="block3myblocks"}, `green`{:class="blo
 
 Click the green 'play' triangle to run your code and see what colour combination you just created!
 
---- no-print ---
-
-![Lighting your second Sparkle with RGB values](images/secondSparkleLights.gif)
-
---- /no-print ---
-
---- print-only ---
-
-![Lighting your second Sparkle with RGB values](images/secondSparkleLights_noPrint.png)
-
---- /print-only ---
+![Lighting your Sparkles with RGB values](images/RGBSparkleLights.gif)
 
 --- /task ---
 
