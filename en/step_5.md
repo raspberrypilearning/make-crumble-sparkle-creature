@@ -26,6 +26,10 @@ Click [this link](https://www.google.com/search?q=color+picker){:target="_blank"
 
 --- task ---
 
+As usual we start with the `program start`{:class="crumblebasic"} block that starts every bit of Crumble code. Then go to the `Sparkles`{:class="crumblesparkles"} palette and take two `set sparkle 0 to`{:class="crumblesparkles"}`red`{:class="block3myblocks"}`green`{:class="block3operators"}`blue`{:class="block3motion"} blocks and connect them under your `program start`{:class="crumblebasic"} block.
+
+Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"} block and change it to 1.
+
 Enter a value in each or the `red`{:class="block3myblocks"}, `green`{:class="block3operators"} and `blue`{:class="block3motion"} input boxes in the `set sparkle to`{:class="crumblesparkles"} block.
 
 ![Set Sparkle to user defined RGB code](images/SparkleRGBcode.png)
@@ -61,7 +65,7 @@ How would you combine red, green and blue values to get orange?
 
 Choose a colour and try and find the right values to make that colour, or choose the RBG values and try to predict what colour you will get.
 
-A great game here is to use the `sparkle 0`{:class="crumblesparkles"} colour picker to choose a colour and then try and set the RGB values for `sparkle 1`{:class="crumblesparkles"} to get as close as you can. Challenge a code buddy!
+A fun game here is to use the `sparkle 0`{:class="crumblesparkles"} colour picker to choose a colour and then try and set the RGB values for `sparkle 1`{:class="crumblesparkles"} to get as close as you can. Challenge a code buddy!
 
 Run your code to see if you were right each time!
 
