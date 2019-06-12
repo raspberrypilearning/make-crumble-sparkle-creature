@@ -72,7 +72,7 @@ Run your code to test it.
 
 --- print-only ---
 
-![Sparkle colour sequence loop](images/step6sequence1Sparkle.jpg)
+![Sparkle colour sequence loop](images/step6sequence1Sparkle.png)
 
 --- /print-only ---
 
