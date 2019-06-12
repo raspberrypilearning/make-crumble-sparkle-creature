@@ -60,3 +60,4 @@ Once you are done, click the play button to run the code and see your Sparkles l
 
 ![Lit up Sparkle Creature](images/litUpCreature.png)
 
+Now you have two Sparkles connected to our Crumble and if you want more just connect them in the same way, from the output of one Sparkle to the input of the next. The third Sparkle will be named `sparkle 2`{:class="crumblesparkles"}, the fourth will be `sparkle 3`{:class="crumblesparkles"} and so on.

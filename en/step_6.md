@@ -1,10 +1,8 @@
-## Colour sequences
+## Colour sequence #1 - Sparkle 0
 
-We already have two Sparkles connected to our Crumble and if you want more just connect them in the same way. The third Sparkle will be named `sparkle 2`{:class="crumblesparkles"} and so on.
+Now we are going to look at changing our Sparkles' colours and creating a colour sequence.
 
-Now we are going to look at changing our Sparkles' colours and creating colour sequences.
-
-We'll start by coding a colour sequence for `sparkle 0`{:class="crumblesparkles"}.
+We'll start by coding a colour sequence just for `sparkle 0`{:class="crumblesparkles"}.
 
 --- task ---
 
@@ -68,13 +66,13 @@ Run your code to test it.
 
 --- no-print ---
 
-![Sparkle colour sequence loop](images/SparkleRepeatLoop.gif)
+![Sparkle colour sequence loop](images/step6sequence1Sparkle.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Sparkle colour sequence loop](images/SparkleRepeatLoop.jpg)
+![Sparkle colour sequence loop](images/step6sequence1Sparkle.jpg)
 
 --- /print-only ---
 
