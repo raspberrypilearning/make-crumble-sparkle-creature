@@ -12,6 +12,8 @@ You should get the message "programming successful".
 
 From the `Basic`{:class="crumblebasic"} palette, grab the `program start`{:class="crumblebasic"} block that starts every bit of Crumble code.
 
+![Crumble program start block](images/progStart.png)
+
 --- /task ---
 
 --- task ---
