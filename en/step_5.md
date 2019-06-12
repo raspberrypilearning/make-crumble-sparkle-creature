@@ -28,9 +28,9 @@ Click [this link](https://www.google.com/search?q=color+picker){:target="_blank"
 
 As usual we start with the `program start`{:class="crumblebasic"} block that starts every bit of Crumble code. Then go to the `Sparkles`{:class="crumblesparkles"} palette and take two `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} blocks and connect them under your `program start`{:class="crumblebasic"} block.
 
-Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"} block and change it to 1.
+Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} block and change it to 1.
 
-Enter a value in each or the `red`{:class="block3myblocks"}, `green`{:class="block3operators"} and `blue`{:class="block3motion"} input boxes in the `set sparkle to`{:class="crumblesparkles"} block.
+Enter a value in each or the `red`{:class="block3myblocks"}, `green`{:class="block3operators"} and `blue`{:class="block3motion"} input boxes in both `set sparkle to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} blocks.
 
 ![Set Sparkle to user defined RGB code](images/SparkleRGBcode.png)
 
