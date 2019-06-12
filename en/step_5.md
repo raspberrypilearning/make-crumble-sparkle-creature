@@ -47,7 +47,7 @@ you were right!
 
 Play around wit the RGB values. 
 
-What colour do you think red:255, green:0 & blue:255 will give you?
+What colour do you think `red`{:class="block3myblocks"}: 255, `green`{:class="block3operators"}: 0 & `blue`{:class="block3motion"}: 255 will give you?
 
 What colour do you think red:255, green:255 & blue:0 will give you?
 
