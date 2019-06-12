@@ -48,7 +48,7 @@ Next, we are going to make our pattern carry on for longer by using a `repeat`{:
 
 Everything inside our `repeat`{:class="crumblecontrol"} loop will happen as many times as we say, or we can use a `repeat forever`{:class="crumblecontrol"} loop to make it keep going for as long as the program is running or the batteries run out!
 
-In the Crumble software, a `repeat`{:class="crumblecontrol"} loop is written as a `do`{:class="crumblecontrol"} loop because we are coding what to `do`{:class="crumblecontrol"} and how many times to do it.
+In the Crumble software, a `repeat`{:class="crumblecontrol"} loop is written as a `do`{:class="crumblecontrol"} loop because we are coding what to `do`{:class="crumblecontrol"} and how many times to `do`{:class="crumblecontrol"} it.
 
 --- task ---
 
@@ -78,4 +78,4 @@ Run your code to test it.
 
 --- /print-only ---
 
-How can you make your Sparkle turn off automatically after the last repeat cycle?
+Look at the blocks in the `Sparkle`{:class="crumblesparkles"} palette. Which block could you add after the `do 10 times`{:class="crumblecontrol"} loop block to make your Sparkle turn off automatically after the last repeat cycle? 
