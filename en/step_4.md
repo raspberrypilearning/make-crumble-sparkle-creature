@@ -26,7 +26,13 @@ Now switch to the `Sparkles`{:class="crumblesparkles"} palette and take a `set s
 
 Right-click on the `set sparkle 0 to`{:class="crumblesparkles"} block and click 'Duplicate'. 
 
+--- no-print ---
+![Duplicating a block](images/duplicateSetSparkleBlock.gif)
+--- /no-print ---
+
+--- print-only ---
 ![Duplicating a block](images/duplicateSetSparkleBlock.png)
+--- /print-only ---
 
 Connect the duplicated block and connect it underneath. Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"} block and change it to 1.
 
