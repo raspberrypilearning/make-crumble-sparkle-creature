@@ -36,7 +36,7 @@ Enter a value in each or the `red`{:class="block3myblocks"}, `green`{:class="blo
 
 Click the green 'play' triangle to run your code and see what colour combination you just created!
 
-![Lighting your Sparkles with RGB values](images/RGBSparkleLights.gif)
+![Lighting your Sparkles with RGB values](images/RGBSparkleLights.png)
 
 --- /task ---
 
