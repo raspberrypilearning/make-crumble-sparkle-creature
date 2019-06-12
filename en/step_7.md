@@ -57,3 +57,29 @@ Click the green play button and see what your code does.
 ![Sparkle colour sequence loop](images/step7sequence2.png)
 
 --- /print-only ---
+
+If you have a complicated sequence in mind it really helps to plan it out on a piece of paper first, but for now let's get creative and make a sequence where the two Sparkles chnage in any order, timings and colours you feel like.
+
+That means you don't even have to alternate the Sparkles. You might have `Sparkle 0`{:class="crumblesparkles"} staying the same while `Sparkle 1`{:class="crumblesparkles"} flashes all the colours of the rainbow. What do you want your Sparkles to do?
+
+--- task ---
+
+Add `wait`{:class="crumblecontrol"} blocks and `set sparkle to`{:class="crumblesparkles"} blocks as you like to create whatever sequence you feel like. You really can't go wrong. Try to think about what your sequence will look like when you run it and then see if you were right.
+
+![Make your own sequence](images/step7code3.png)
+
+Click the green play button and see if your sequence is what you were expecting.
+
+--- /task ---
+
+--- no-print ---
+
+![Sparkle colour sequence loop](images/step7sequence3.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![Sparkle colour sequence loop](images/step7sequence3.png)
+
+--- /print-only ---
