@@ -15,7 +15,6 @@ steps:
   - title: Colour sequence 2 - both Sparkles
   - title: "Challenge: Traffic light eyes"
     challenge: true
-  - title: Colour sequences
-  - title: Two Sparkle sequencing
-  - title: "Challenge: follow me colour sequence"
-    challenge: true
+  - title: 9
+  - title: 10
+  - title: 11
