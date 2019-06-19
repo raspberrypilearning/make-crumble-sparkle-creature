@@ -56,3 +56,14 @@ You can stop the program at any time by clicking the red stop button in the Crum
 
 --- /task ---
 
+--- no-print ---
+
+![random Sparkle, colour and interval](images/sequence5_finalSequence.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![random Sparkle, colour and interval](images/sequence5_finalSequence.png)
+
+--- /print-only ---
