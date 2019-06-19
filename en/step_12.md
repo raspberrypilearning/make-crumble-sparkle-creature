@@ -64,15 +64,56 @@ Change the second `0`{:class="crumbleoperators"} to `255`{:class="crumbleoperato
 
 The condition has been set and so the loop will `repeat until`{:class="crumblecontrol"} the `blue value`{:class="crumblevariables"} variable `equals 255`{:class="crumbleoperators"}.
 
-Now we need to say what happens until that condition is met - until the `blue value`{:class="crumblevariables"} variable `equals 255`{:class="crumbleoperators"}.
+Now we need to say what happens until that condition is met, i.e. until the `blue value`{:class="crumblevariables"} variable `equals 255`{:class="crumbleoperators"}.
 
 --- task ---
 
+In the `Sparkles`{:class="crumblesparkles"} palette, look for block which sets an RGB value for `all Sparkles`{:class="crumblesparkles"}. Pull it out and connect it inside your `repeat until`{:class="crumblecontrol"} loop.
 
+Set the `red`{:class="block3myblocks"} value to `255`{:class="block3myblocks"}.
+
+Set the `green`{:class="block3operators"} value to `0`{:class="block3operators"}.
+
+Place a `blue value`{:class="crumblevariables"} block in the `blue`{:class="block3motion"} RGB value box.
 
 ![Set all Sparkles](images/sequence6_setAllSparkles.png)
 
 --- /task ---
 
+--- task ---
 
+Take an `increase # by 1`{:class="crumblevariables"} block from the `Variables`{:class="crumblevariables"} palette and put a `blue value`{:class="crumblevariables"} block in its blank space.
 
+Place the `increase blue value by 1`{:class="crumblevariables"} block under your `set all sparkles to`{:class="crumblesparkles"}`255`{:class="block3myblocks"}`0`{:class="block3operators"}`blue value`{:class="crumblevariables"} block.
+
+![Increase blue value by 1](images/sequence6_increaseBlueValue.png)
+
+--- /task ---
+
+Another block we have not used before is the `Sparkle`{:class="crumblesparkles"} block that turns all the Sparkles off.
+
+--- task ---
+
+From the `Sparkles`{:class="crumblesparkles"} palette, take a `turn all sparkles off`{:class="crumblesparkles"} block and put it underneath the `do until`{:class="crumblecontrol"} loop. Be careful to put it under the loop and not inside!
+
+![Turn all Sparkles off](images/sequence6_turnSparklesOff.png)
+
+Try running the code and see what it looks like.
+
+--- /task ---
+
+Great. That's red to purple done. Now let's try going from red to purple to blue!
+
+To do that we'll need to set up a `'red value' variable`{:class="crumblevariables"} and have it `decrease`{:class="crumblevariables"} `until`{:class="crumblecontrol"} it reaches `0`{:class="crumblevariables"}.
+
+--- task ---
+
+`Add a new variable`{:class="crumblevariables" and call it `red value`{:class="crumblevariables".
+
+Pull the `turn all sparkles off`{:class="crumblesparkles"} block away from your code so you can easily add more blocks.
+
+Under the `do until`{:class="crumblecontrol"} loop, add a `let # = 0`{:class="crumblevariables"} block, add a `red value`{:class="crumblevariables"} block to the empty field and set the value to `255`{:class="crumblevariables"}.
+
+![Set the red value variable](images/sequence6_setRedValue.png)
+
+--- /task ---
