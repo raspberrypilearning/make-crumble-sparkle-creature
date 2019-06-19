@@ -68,7 +68,7 @@ From the `Operators`{:class="crumbleoperators"} block palette, grab a `random 0 
 
 If you had a `wait 1.0 seconds`{:class="crumblecontrol"} block, it will now wait a random amount between `0 to 10`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"}.
 
-Change the random values to 1 and 3 to make a `wait `{:class="crumblecontrol"}` 1 to 3 `{:class="crumbleoperators"}` seconds`{:class="crumblecontrol"} block.
+Change the random values to 1 and 3 to make a `wait`{:class="crumblecontrol"} `1 to 3`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"} block.
 
 ![Add random number blocks to the wait block](images/sequence3_addRandomNumberBlocks.png)
 
@@ -80,7 +80,7 @@ Click the green play button and see what your code does and what colours you hav
 
 Try replacing the `wait 1.0 seconds`{:class="crumblecontrol"} blocks with `wait 100 milliseconds`{:class="crumblecontrol"} blocks.
 
-Of course, 1 to 3 milliseconds is a tiny amount of time, so change the `random`{:class="crumbleoperators"} block values to something more suitable such as 300 to 2100. That would be the same as 0.3 to 2.1 seconds.
+Of course, `1 to 3`{:class="crumbleoperators"} `milliseconds`{:class="crumblecontrol"} is a tiny amount of time, so change the `random`{:class="crumbleoperators"} block values to something more suitable such as `300 to 2100`{:class="crumbleoperators"}. That would be the same as `0.3 to 2.1`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"}.
 
 ![Replace the wait blocks](images/sequence3_replaceWaitBlocks.png)
 
