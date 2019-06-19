@@ -108,12 +108,40 @@ To do that we'll need to set up a `'red value' variable`{:class="crumblevariable
 
 --- task ---
 
-`Add a new variable`{:class="crumblevariables" and call it `red value`{:class="crumblevariables".
+`Add a new variable`{:class="crumblevariables"} and call it `red value`{:class="crumblevariables"}.
 
 Pull the `turn all sparkles off`{:class="crumblesparkles"} block away from your code so you can easily add more blocks.
 
 Under the `do until`{:class="crumblecontrol"} loop, add a `let # = 0`{:class="crumblevariables"} block, add a `red value`{:class="crumblevariables"} block to the empty field and set the value to `255`{:class="crumblevariables"}.
 
 ![Set the red value variable](images/sequence6_setRedValue.png)
+
+--- /task ---
+
+We need to build a `do until`{:class="crumblecontrol"} loop like the last one to change `red value`{:class="crumblevariables"} from `255`{:class="crumblevariables"} to `0`{:class="crumblevariables"}.
+
+--- task ---
+
+Grab another `do until`{:class="crumblecontrol"} loop and put a `0 = 0`{:class="crumbleoperators"} block in its hexagonal space.
+
+Drag a `set all sparkles to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} block into the `repeat until`{:class="crumblecontrol"} loop.
+
+![A new do until loop](images/sequence6_anotherDoUntil.png)
+
+--- /task ---
+
+--- task ---
+
+Put a `red value`{:class="crumblevariables"} block in place of the first `0`{:class="crumbleoperators"} of `0 = 0`{:class="crumbleoperators"}, and leave the second as `0`{:class="crumbleoperators"}.
+
+In the `set all sparkles to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="crumblevariables"} block:
+
+In the `red`{:class="block3myblocks"} value box put a `red value`{:class="crumblevariables"} block.
+
+Leave the `green`{:class="block3operators"} value at `0`{:class="block3operators"}.
+
+The `blue`{:class="block3motion"} value box can either be set at `255`{:class="block3motion"} or have a `blue value`{:class="crumblevariables"} block inside.
+
+![A new do until loop with values](images/sequence6_redValueDoUntil.png)
 
 --- /task ---
