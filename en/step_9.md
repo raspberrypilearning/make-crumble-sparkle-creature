@@ -88,7 +88,8 @@ Click the green play button and see how the intervals have changed.
 
 --- /task ---
 
-Finally, let's try a simple variation to make the two eyes change at different times. In the example, I have reduced the random wait times to make the sequence run faster.
+Finally, let's try a simple variation to make the two eyes change at different times. 
+In the example, I have reduced the random wait times to make the sequence run faster.
 
 --- task ---
 
