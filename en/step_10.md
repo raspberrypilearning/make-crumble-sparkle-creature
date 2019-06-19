@@ -56,7 +56,7 @@ Since `255`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="blo
 
 ![Random RGB values for Sparkle 0 and 1](images/sequence4_Sparkle1RandomBlueValues.png)
 
-Click the green play button again and see Sparkle 1's restricted colur range.
+Click the green play button again and see Sparkle 1's colour change within its limited red to purple colur range.
 
 --- /task ---
 
