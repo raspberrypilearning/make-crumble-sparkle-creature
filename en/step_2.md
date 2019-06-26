@@ -14,13 +14,15 @@ Use this project to explore your cretive designing, creative making and creative
 
 --- no-print ---
 
-![Pulsing red eyes sequence](images/step13challengeSequence.gif)
+![Example creature project 1](images/sparkleCreature_projectExample2.gif)
+
+![Example creature project 1](images/sparkleCreature_projectExample3.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Pulsing red eyes sequence](images/step13challengeSequence.png)
+![Example creature projects](images/sparkleCreature_projectExamples.png)
 
 --- /print-only ---
 
