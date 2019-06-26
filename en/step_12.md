@@ -80,6 +80,8 @@ Place a `blue value`{:class="crumblevariables"} block in the `blue`{:class="bloc
 
 --- /task ---
 
+Now the `blue`{:class="block3motion"} RGB value of the Sparkle will always be the same as our `blue value`{:class="crumblevariables"} variable.
+
 --- task ---
 
 Take an `increase # by 1`{:class="crumblevariables"} block from the `Variables`{:class="crumblevariables"} palette and put a `blue value`{:class="crumblevariables"} block in its blank space.
@@ -89,6 +91,8 @@ Place the `increase blue value by 1`{:class="crumblevariables"} block under your
 ![Increase blue value by 1](images/sequence6_increaseBlueValue.png)
 
 --- /task ---
+
+Since the `blue value`{:class="crumblevariables"} variable will increase by 1 each time the loop runs, the `blue`{:class="block3motion"} RGB value will also increase by 1 each time.
 
 Another block we have not used before is the `Sparkle`{:class="crumblesparkles"} block that turns all the Sparkles off.
 
@@ -134,7 +138,7 @@ Drag a `set all sparkles to`{:class="crumblesparkles"}`0`{:class="block3myblocks
 
 Put a `red value`{:class="crumblevariables"} block in place of the first `0`{:class="crumbleoperators"} of `0 = 0`{:class="crumbleoperators"}, and leave the second as `0`{:class="crumbleoperators"}.
 
-In the `set all sparkles to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="crumblevariables"} block:
+In the `set all sparkles to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} block:
 
 In the `red`{:class="block3myblocks"} value box put a `red value`{:class="crumblevariables"} block.
 
@@ -143,5 +147,23 @@ Leave the `green`{:class="block3operators"} value at `0`{:class="block3operators
 The `blue`{:class="block3motion"} value box can either be set at `255`{:class="block3motion"} or have a `blue value`{:class="crumblevariables"} block inside.
 
 ![A new do until loop with values](images/sequence6_redValueDoUntil.png)
+
+--- /task ---
+
+Now, the `blue`{:class="block3motion"} RGB value of the Sparkle will always be the same as our `blue value`{:class="crumblevariables"} variable and the `red`{:class="block3myblocks"} RGB value of the Sparkle will always be the same as our `red value`{:class="crumblevariables"} variable.
+
+One last thing. You need to add a variable block telling the `red value`{:class="crumblevariables"} variable to `decrease by 1`{:class="crumblevariables"} each time the loop runs.
+
+--- task ---
+
+Add a `decrease by 1`{:class="crumblevariables"} block under the In the `set all sparkles to`{:class="crumblesparkles"}`red value`{:class="crumblevariables"}`0`{:class="block3operators"}`blue value`{:class="crumblevariables"} block
+
+Insert a `red value`{:class="crumblevariables"} block into the black space of the `decrease by 1`{:class="crumblevariables"} block.
+
+Finally, it is time to put the `turn all sparkles off`{:class="crumblesparkles"} block back at the end of the code.
+
+![A new do until loop with values](images/sequence6_finalCode.png)
+
+Time to run your code and see what it looks like.
 
 --- /task ---
