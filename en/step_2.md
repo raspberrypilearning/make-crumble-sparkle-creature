@@ -4,6 +4,28 @@ We are going to design and make our 'creature' which will have two Crumble Spark
 
 The first step is to decide what you want to make and design it. It is helpful to make a sketch first. In this project, I am going to make something simple as an example but you can change it to be whatever you like.
 
+### What does a creature look like?
+
+There is not really any wrong way to make your creature, just lots of right ways!
+
+cutting out a card or cardboard front and using card, wood or even a toilet roll for a stand works great but you canuse your creativity to make any sort of creature you like. How about upcycling some little boxes or even used drinks bottles?
+
+Use this project to explore your cretive designing, creative making and creative coding!
+
+--- no-print ---
+
+![Pulsing red eyes sequence](images/step13challengeSequence.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![Pulsing red eyes sequence](images/step13challengeSequence.png)
+
+--- /print-only ---
+
+For the sake of this project, we will look at one possible make, but you can adapt this to your own design and materials.
+
 --- task ---
 
 Draw your creature design in pencil. Starting by sketching lightly in pencil is great because you can easily correct any mistakes and make improvements.
