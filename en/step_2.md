@@ -26,7 +26,7 @@ Use this project to explore your cretive designing, creative making and creative
 
 --- /print-only ---
 
-For the sake of this project, we will look at one possible make, but you can adapt this to your own design and materials.
+For this project, we will look at one possible make, but you can adapt this to your own design and materials.
 
 --- task ---
 
