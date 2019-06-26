@@ -1,6 +1,6 @@
 ## Making your creature
 
-We are going to design and make our 'creature' which will have two Crumble Sparkles for its eyes. You can make an animal, a monster, a person, or anything you like. It can be something really quick and simple or become a big making project.
+We are going to design and make our 'creature' which will have two Crumble Sparkles for its eyes. You can make an animal, a monster, a person or anything you like. It can be something really quick and simple or become a big making project.
 
 The first step is to decide what you want to make and design it. It is helpful to make a sketch first. In this project, I am going to make something simple as an example but you can change it to be whatever you like.
 
