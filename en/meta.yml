@@ -19,3 +19,5 @@ steps:
   - title: Colour sequence 4 - random Sparkles colours
   - title: Colour sequence 5 - totally random Sparkles
   - title: Colour sequence 6 - gradual colour changes
+  - title: "Challenge: Pulsing light sequence"
+    challenge: true
