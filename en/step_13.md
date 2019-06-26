@@ -1,6 +1,6 @@
 ## Challenge: Pulsing light sequence
 
-Can you code your Sparkle creature's eyes to pulse from off to bright red,back to nothing and so on forever?
+Learning from what we have just done in colour sequence 6, can you code your Sparkle creature's eyes to pulse from off to bright red, back to nothing and so on forever?
 
 This is not just turning from off to red, but gradually getting brighter and brighter and then gradually dimmer and dimmer, and so on, using variables to control the RGB values like you did in the gradual colour change code.
 
@@ -20,7 +20,7 @@ This is not just turning from off to red, but gradually getting brighter and bri
 
 --- hint ---
 
-Try and write code so that when the `program starts`{:class="crumblebasic"}, a `red value`{:class="crumblevariables"} is set to `0`{:class="crumblevariables"}, then `forever`{:class="crumblecontrol"} keep on `increasing`{:class="crumblevariables"} the `red`{:class="block3myblocks"} RGB value of the `Sparkles`{:class="crumblesparkles"} by 5 `until`{:class="crumblecontrol"} it `equals 255`{:class="crumbleoperators"}, then `decreasing`{:class="crumblevariables"} the `red`{:class="block3myblocks"} RGB value of the `Sparkles`{:class="crumblesparkles"} by 5 `until`{:class="crumblecontrol"} it `equals 0`{:class="crumbleoperators"}.
+Try and write code so that when the `program starts`{:class="crumblebasic"}, a `red value`{:class="crumblevariables"} variable is set to `0`{:class="crumblevariables"}, then `forever`{:class="crumblecontrol"} use the variable to keep on `increasing`{:class="crumblevariables"} the `red`{:class="block3myblocks"} RGB value of the `Sparkles`{:class="crumblesparkles"} by 5 `until`{:class="crumblecontrol"} it `equals 255`{:class="crumbleoperators"}, then `decrease`{:class="crumblevariables"} the `red`{:class="block3myblocks"} RGB value of the `Sparkles`{:class="crumblesparkles"} by 5 `until`{:class="crumblecontrol"} it `equals 0`{:class="crumbleoperators"}.
 
 --- /hint ---
 
