@@ -167,3 +167,15 @@ Finally, it is time to put the `turn all sparkles off`{:class="crumblesparkles"}
 Time to run your code and see what it looks like.
 
 --- /task ---
+
+--- no-print ---
+
+![Gradual colour change sequence](images/sequence6_finalSequence.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![Gradual colour change sequence](images/sequence6_finalSequence.png)
+
+--- /print-only ---
