@@ -1,10 +1,8 @@
-## Coding Sparkle colours using RGB values
+## How to set Sparkle colours using RGB values
 
-Computers show colours by mxing different amounts of red, green and blue (RGB). Each  of these colours can have a value from 0 to 255, where 0 is no colour at all and 255 is the maximum. 
+Computers make colours by mixing different amounts of red, green, and blue (RGB). Each of the three colours can have a value from 0 to 255, where 0 is no colour at all and 255 is the maximum amount.
 
-It is more like mixing light than mixing paint though, and you may be surprised by some of the colours that you get.
-
-If all the RGB values are 0, you will get black. If all the values are 255, you will get white, but you can get millions of colours by combining the number in between!
+If all the RGB values are 0, you get black. If all the RGB values are 255, you get white. You can mix millions of colours by combining the values in between 0 and 255!
 
 --- no-print ---
 
@@ -18,15 +16,17 @@ If all the RGB values are 0, you will get black. If all the values are 255, you 
 
 --- /print-only ---
 
-Google have a neat little [RGB colour picker](https://www.google.com/search?q=color+picker){:target="_blank"} that you can use to explore different colour values.
+Google provides an online [RGB colour picker](https://www.google.com/search?q=color+picker){:target="_blank"} that you can use to test combinations of colour values.
 
 [![Google's colour picker with RGB values](images/googleColourPicker.png)](https://www.google.com/search?q=color+picker){:target="_blank"}
 
-Click [this link](https://www.google.com/search?q=color+picker){:target="_blank"} then click or drag the slider and colour space to find the colour of your choice. The RGB values will show to the left.
+[Click on this link to access Google's RGB colour picker](https://www.google.com/search?q=color+picker){:target="_blank"}. Then click or drag the slider and colour space to mix a colour you like. The RGB values of the colour show on the left.
 
 --- task ---
 
-As usual we start with the `program start`{:class="crumblebasic"} block that starts every bit of Crumble code. Then go to the `Sparkles`{:class="crumblesparkles"} palette and take two `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} blocks and connect them under your `program start`{:class="crumblebasic"} block.
+As usual, start with the `program start`{:class="crumblebasic"} block that begins every Crumble program.
+
+Then go to the `Sparkles`{:class="crumblesparkles"} menu and take two `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} blocks. Connect them below your `program start`{:class="crumblebasic"} block.
 
 ![Set Sparkle to user defined RGB code](images/SparkleRGBblocks0and0.png)
 
@@ -34,7 +34,7 @@ As usual we start with the `program start`{:class="crumblebasic"} block that sta
 
 --- task ---
 
-Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} block and change it to 1.
+In the **second** `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} block, click on the first `0` and change it to a `1`.
 
 ![Set Sparkle to user defined RGB code](images/SparkleRGBblocks0and1.png)
 
@@ -42,33 +42,32 @@ Click on the '0' in the second `set sparkle 0 to`{:class="crumblesparkles"}`0`{:
 
 --- task ---
 
-Enter a value in each or the `red`{:class="block3myblocks"}, `green`{:class="block3operators"} and `blue`{:class="block3motion"} input boxes in both `set sparkle to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} blocks.
+In **both** `set sparkle to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} blocks, enter a value in each of the `red`{:class="block3myblocks"}, `green`{:class="block3operators"} and `blue`{:class="block3motion"} input boxes.
 
 ![Set Sparkle to user defined RGB code](images/SparkleRGBcode.png)
 
-Click the green 'play' triangle to run your code and see what colour combination you just created!
+Then click on the green triangle **play** button to run the code and see your Sparkles light up in your chosen colour.
 
 ![Lighting your Sparkles with RGB values](images/RGBSparkleLights.png)
 
 --- /task ---
 
-The Crumble software does not give you any visual indication as to what your RGB value combination will produce but it's fun to experiment with different mixes. Predict what your combination will produce, run your code and see if 
-you were right!
+The Crumble software does not show you what colour your RGB value combination produce. Experiment with combining different values!
 
 --- task ---
 
-Play around wit the RGB values. 
+Try out some more RGB values.
 
-What colour do you think `red:`{:class="block3myblocks"} 255, `green:`{:class="block3operators"} 0 & `blue:`{:class="block3motion"} 255 will give you?
+What colour do you think `red:`{:class="block3myblocks"} 255, `green:`{:class="block3operators"} 0, `blue:`{:class="block3motion"} 255 will create?
 
-What colour do you think `red:`{:class="block3myblocks"} 255, `green:`{:class="block3operators"} 255 & `blue:`{:class="block3motion"} 0 will give you?
+What colour do you think `red:`{:class="block3myblocks"} 255, `green:`{:class="block3operators"} 255, `blue:`{:class="block3motion"} 0 will create?
 
-How would you combine red, green and blue values to get orange?
+Each time, run your code to see what colours the Sparkles show!
 
-Choose a colour and try and find the right values to make that colour, or choose the RBG values and try to predict what colour you will get.
+How do you combine RGB values to create orange?
 
-A fun game here is to use the `sparkle 0`{:class="crumblesparkles"} colour picker to choose a colour and then try and set the RGB values for `sparkle 1`{:class="crumblesparkles"} to get as close as you can. Challenge a code buddy!
+Imagine a colour and try to find the right RGB values to make that colour. Or choose some RBG values and try to guess what colour they will create.
 
-Run your code to see if you were right each time!
+A fun game is to use the `sparkle 0`{:class="crumblesparkles"} colour picker to choose a colour and then challenge someone to set the RGB values for `sparkle 1`{:class="crumblesparkles"} to create the same colour.
 
 --- /task ---

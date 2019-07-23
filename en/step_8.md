@@ -1,8 +1,8 @@
-## Challenge: Follow me light sequence
+## Challenge: 'follow me' light sequence
 
-Can you code your Sparkle creature's eyes to flash in a sequence where one eye (Sparkle 1) turns the colour of the other eye (Sparkle 0) but the moment it does the leading eye (Sparkle 0) changes to a new colour?
+Can you make your Sparkle creature's eyes flash in a sequence where one eye (Sparkle 1) turns the colour of the other eye (Sparkle 0), but the moment Sparkle 1 changes to that colour, Sparkle 0 changes to a new colour?
 
-Can you code this 'follow me' sequence so that the second eye chases the first through the colours red, blue, green and pink and repeat 10 times?
+Try to code this 'follow me' sequence so that the second eye follows the first through the colours red, blue, green, and pink 10 times.
 
 --- no-print ---
 
@@ -20,15 +20,27 @@ Can you code this 'follow me' sequence so that the second eye chases the first t
 
 --- hint ---
 
-Try and write code so that when the `program starts`{:class="crumblebasic"}, `repeat ten times`{:class="crumblecontrol"} `Sparkle 0`{:class="crumblesparkles"} turns `red`{:class="block3myblocks"}, then `wait half a second`{:class="crumblecontrol"} before `Sparkle 1`{:class="crumblesparkles"} turns `red`{:class="block3myblocks"} and `Sparkle 0`{:class="crumblesparkles"} turns `blue`{:class="block3mymotion"}. `Wait`{:class="crumblecontrol"} again before `Sparkle 1`{:class="crumblesparkles"} also turns `blue`{:class="block3motion"} and `Sparkle 0`{:class="crumblesparkles"} turns `green`{:class="block3operators"}. Again, `wait`{:class="crumblecontrol"} before `Sparkle 1`{:class="crumblesparkles"} becomes `green`{:class="block3operators"} and `Sparkle 0`{:class="crumblesparkles"} turns `pink`{:class="block3sound"}. Finally, `wait`{:class="crumblecontrol"} one last time and turn `Sparkle 1`{:class="crumblesparkles"} `pink`{:class="block3sound"}
+Create your program so that:
+1. When the `program starts`{:class="crumblebasic"}
+1. `repeat ten times`{:class="crumblecontrol"}
+1. `Sparkle 0`{:class="crumblesparkles"} turns `red`{:class="block3myblocks"}
+1. `wait half a second`{:class="crumblecontrol"}
+1. `Sparkle 1`{:class="crumblesparkles"} follows by also turning `red`{:class="block3myblocks"}
+1. `Sparkle 0`{:class="crumblesparkles"} turns `blue`{:class="block3mymotion"}
+1. `wait`{:class="crumblecontrol"} again
+1. `Sparkle 1`{:class="crumblesparkles"} follows by also turning `blue`{:class="block3motion"}
+1. `Sparkle 0`{:class="crumblesparkles"} turns `green`{:class="block3operators"}
+1. `wait`{:class="crumblecontrol"} again
+1. `Sparkle 1`{:class="crumblesparkles"} afollows by also turning `green`{:class="block3operators"}
+1. `Sparkle 0`{:class="crumblesparkles"} turns `pink`{:class="block3sound"}
+1. `wait`{:class="crumblecontrol"} one last time
+1. `Sparkle 1`{:class="crumblesparkles"} follows by also turning `pink`{:class="block3sound"}
 
 --- /hint ---
 
 --- hint ---
 
-You will need to use the blocks below to create the follow me colour sequence code.
-
-Can you rearrange them to make the code work?
+To create the 'follow me' colour sequence program, use the blocks below in the right order:
 
 ![Sparkle follow me sequence code parsons problem](images/step8challengeSequence_parsons.png)
 
@@ -36,11 +48,11 @@ Can you rearrange them to make the code work?
 
 --- hint ---
 
-Arrange the code blocks to make the code below:
+Your program should look like this:
 
 ![Sparkle follow me sequence code solution](images/step8challengeSequence_solution.png)
 
-Click the green 'play' button to see if it works as you expect.
+Click on the green triangle **play** button and check that your sequence is what you expect.
 
 --- /hint ---
 

@@ -1,10 +1,13 @@
-## Connecting the Sparkles
+## How to connect the Sparkles
 
-In the Getting started with Crumble project we learned how to connect up a Crumble Sparkle to the Crumble controller board by connecting the Crumble's positive output to the Sparkle's positive input, negative output to negative input and the Crumble's 'D' terminal to the Sparkle's 'D' terminal input.
+To connect a Crumble Sparkle to the Crumble controller board, you use crocodile clip cables to connect:
+1. The Crumble's positive output to the Sparkle's positive input
+1. The Crumble's negative output to the Sparkle's negative input
+1. The Crumble's D terminal to the Sparkle's D terminal input
 
 --- task ---
 
-Connect a Sparkle to your Crumble controller as we did in the Getting Started with Crumble project. 
+Connect your first Sparkle to your Crumble controller:
 
 [[[connect-single-sparkle]]]
 
@@ -12,35 +15,37 @@ Connect a Sparkle to your Crumble controller as we did in the Getting Started wi
 
 --- /task ---
 
-Now it's time to connect a second Sparkle to the first one. The positive, negative and signal (D) pass through the first Sparkle and output to the second Sparkle.
+Now it's time to connect the second Sparkle to the first one. The positive, negative, and signal (D) pass through the first Sparkle and to the second Sparkle.
 
 ![Crumble Sparkle connections](images/sparkleconnections.jpg)
 
 --- task ---
 
-Connect a croc clip from the first Sparkle's positive (+) output terminal on the right-hand side to the second Sparkle's positive (+) input terminal on the left-hand side.
+Use a crocodile clip cable to connect the first Sparkle's positive **output** terminal (+ on the **right-hand** side) to the second Sparkle's positive **input** terminal (+ on the **left-hand side**).
 
-Repeat this for the negative (-) output to negative (-) input, and finally, signal (D) output from the first Sparkle to the signal (D) input on the second Sparkle.
+Do the same for the first Sparkle's negative (-) **output** and the second Sparkle's negative (-) **input**.
+Finally, do the same for the first Sparkle's signal (D) **output** and the second Sparkle's signal (D) **input**.
 
 ![Connect second Sparkle](images/secondSparkleWireAgainSA.png)
 
 --- /task ---
 
-That's our complete setup and if you want, you can just attach this straight to your creature and you are ready to start coding. It is a little tricky so now that we know exactly how it all goes together, it might be easier to take the leads off and then start by fixing the Sparkles to our creature.
+Your Sparkles are now set up, but it's tricky to attach them to your creature when they have cables connected.
+
+If you want, you can take the cables off again and fix the Sparkles to your creature by themselves first.
 
 --- task ---
 
-Once you have removed the leads, fix the two Sparkles in place being careful to note which way up they are. In this project the positive (+) terminal is at the top and the 'D' terminal at the bottom.
++ Remove the cables.
++ Fix the two Sparkles to the creature, for example using Blu Tack. **Important:** make sure that the Sparkle terminals are not covered, and note which way up the Sparkles are.
 
-I have used a little Blu Tack at the top and bottom of each Sparkle. Whatever you use, just make sure that the Sparkle terminals are accessible.
+**Note:** if you get the direction wrong and connect the Crumble directly to the Sparkle's output, the Sparkles will not light up!
+
+In the example pictures, the positive (+) terminal is at the top and the D terminal at the bottom. I have marked which terminal is which, and the direction from the first to the second Sparkle: 
 
 ![Fxing the Sparkles with Blu Tack](images/sparklesBluTack.png)
 
-I have actually marked which terminal is which AND the direction (with arrows) from Sparkle 0 to Sparkle 1. 
-
-Note: If you get the direction wrong and connect the Crumble directly to the Sparkle's output, the Sparkles will not light up!
-
-If the Saprkles are a little loose you could add a thin strip of tape across the middle.
+If the Sparkles are a bit loose, you can add a thin strip of tape across the middle.
 
 ![Fxing the Sparkles with masking tape](images/sparklesMaskingTape.png)
 
@@ -48,9 +53,12 @@ If the Saprkles are a little loose you could add a thin strip of tape across the
 
 --- task ---
 
-Now connect the leads between the two Sparkles, potove to positive, negative to negative and signal (D) to signal (D). 
+Now connect the crocodile cable in between the two Sparkles again:
++ Positive to positive
++ Negative to negative
++ Signal (D) to signal (D)
 
-As long as the Sparkles are the same way up, this will always be the sets of terminals next to each other in the middle of your creature.
+If the Sparkles are the same way up, the terminals you need to connect are next to each other in the middle of your creature.
 
 ![Connecting Sparkle 0 to Sparkle 1](images/sparkles1to2.png)
 
@@ -58,9 +66,13 @@ As long as the Sparkles are the same way up, this will always be the sets of ter
 
 --- task ---
 
-Now connect the leads that will come from the Crumble itself. Make sure they go to the input terminals of Sparkle 0.
+Now use more crocodile cables to connect your Crumble to the **input** terminals of your **first** Sparkle:
 
-Note: When you look at the front of a Sparkle, the inputs are on the left-hand side. Wiring up your creature, you are seeing the Sparkle from the back so the inputs are on the right-hand side as in the image below.
++ The positve input of the first Sparkle (Sparkle 0) to the positive output of the Crumble.
++ The negative input of the first Sparkle (Sparkle 0) to the negative output of the Crumble.
++ The D signal input of the first Sparkle (Sparkle 0) to the D terminal of the Crumble.
+
+**Note:** when you look at the front of a Sparkle, the inputs are on the left-hand side. While you are adding cables to your creature, you are seeing the Sparkle from the back, so the inputs are on the right-hand side, as in the image below:
 
 ![Connecting leads to go to the Crumble](images/sparkles1tocrumble.png)
 
@@ -68,12 +80,14 @@ Note: When you look at the front of a Sparkle, the inputs are on the left-hand s
 
 --- task ---
 
-If they are not already connected, connect the positve lead going to the first Sparkle (Sparkle 0) to the positive output from the Crumble. Then connect the negative to negative, and signal 'D' lead to the 'D' terminal of the Crumble
+If they are not already connected, connect the Crumble and battery pack:
++ Use a crocodile clip cable to connect the positve input of the Crumble to the battery pack's positive terminal.
++ Use another crocodile clip cable to connect the negative input of the Crumble to the battery pack's negative terminal.
 
 ![Connecting leads to the Crumble](images/creatureSparklesBack.png)
 
 --- /task ---
 
-That's it. Your creature should now be good to go, and ready to be coded!
+Your creature is now ready to be coded!
 
 ![Fully connected creature](images/creatureSparklesStanding.png)

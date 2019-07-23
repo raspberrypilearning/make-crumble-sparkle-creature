@@ -1,64 +1,69 @@
-## Colour sequence 1 - Sparkle 0
+## Create a colour sequence for one Sparkle
 
-Now we are going to look at changing our Sparkles' colours and creating a colour sequence.
-
-We'll start by coding a colour sequence just for `sparkle 0`{:class="crumblesparkles"}.
+Now you will create a colour sequence for `sparkle 0`{:class="crumblesparkles"}.
 
 --- task ---
 
-Start with the `program start`{:class="crumblebasic"} block and from the sparkles block palette, choose a `set sparkle 0 to`{:class="crumblesparkles"} block - you can choose either the colour picker or the RGB values version. 
+As always, begin your program with the `program start`{:class="crumblebasic"} block.
 
-To get more `set sparkle 0 to`{:class="crumblesparkles"} blocks you can drag each block out from the block palette or you can right-click on a block and choose 'duplicate'. Use whichever way you find easiest.
+From the `Sparkles`{:class="crumblesparkles"} menu, get a `set sparkle 0 to`{:class="crumblesparkles"} block — choose either the colour picker or the RGB values version. 
 
-Connect three `set sparkle 0 to`{:class="crumblesparkles"} blocks together and choose a different colour for each.
+You need three `set sparkle 0 to`{:class="crumblesparkles"} blocks. Either get two more blocks like this from the menu, or right-click on the `set sparkle 0 to`{:class="crumblesparkles"} block and then click on **Duplicate** to copy it twice.
+
+Connect the three `set sparkle 0 to`{:class="crumblesparkles"} blocks together, and choose a different colour for each:
 
 ![Coding a three colour Sparkle sequence without wait blocks](images/threeSetSparkleBlocks.png)
 
-What do you think will happen when you run this code?
+Can you guess what will happen when you run this code?
 
-Make a prediction and then run the code.
+Make a guess, and then run the code by clicking on the green triangle **play** button.
 
 --- /task ---
 
-It looked as though the Crumble forgot to run the first two colours and went straight to the third but what really happened was that it ran through them so quickly that we couldn't see it.
+It looks as though the Sparkle skipped the first two colours, but that's not true! What really happened is that the Sparkle lit up in the first two colours so briefly that you couldn's see them.
 
-To solve this problem, we need to put a wait, or pause, between each colour setting block.
+To solve this problem, you need to add a pause, or `wait`{:class="crumblecontrol"}, after each `set sparkle 0 to`{:class="crumblesparkles"} block:
 
-`Set colour `{:class="crumblesparkles"}`red`{:class="block3myblocks"} > `wait`{:class="crumblecontrol"} > `Set colour `{:class="crumblesparkles"}`green`{:class="block3operators"} > `wait`{:class="crumblecontrol"} > `Set colour `{:class="crumblesparkles"}`blue`{:class="block3motion"}
++ `set sparkle 0 to`{:class="crumblesparkles"}`red`{:class="block3myblocks"} >
++ `wait`{:class="crumblecontrol"} >
++ `set sparkle 0 to`{:class="crumblesparkles"}`green`{:class="block3operators"} >
++ `wait`{:class="crumblecontrol"} >
++ `set sparkle 0 to`{:class="crumblesparkles"}`blue`{:class="block3motion"} >
++ `wait`{:class="crumblecontrol"}
 
 --- task ---
 
-From the `control`{:class="crumblecontrol"} block palette, drag out a `wait`{:class="crumblecontrol"}. You can choose either the seconds or milliseconds version (1,000 milliseconds = 1 second) and set a wait time of your choice (one second or less would be good).
+From the `control`{:class="crumblecontrol"} menu, drag out a `wait`{:class="crumblecontrol"} — choose either the seconds or milliseconds version (1000 milliseconds = 1 second).
 
-Connect a `wait`{:class="crumblecontrol"} block after each `set sparkle to`{:class="crumblesparkles"} blocks.
+Set a wait time — one second or less is good.
+
+Duplicate the `wait`{:class="crumblecontrol"} block and connect one of them below each `set sparkle to`{:class="crumblesparkles"} block.
 
 ![Coding a three colour Sparkle sequence with wait blocks](images/threeSetSparkleBlocksWithWaits.png)
 
-Now run your code again and check that it works.
+The bottom `wait`{:class="crumblecontrol"} block is not really needed yet, but you will need it for what comes next.
+
+Now run your code again to check whether it works.
 
 --- /task ---
 
-Your Sparkle should light up with each of the different colours that you have programmed and then stop on your last colour.
+Your Sparkle should light up with each of the different colours, and then stop on your last colour.
 
-We didn't really need the last `wait`{:class="crumblecontrol"} block, but we will need it for what comes next.
+Next, use a **loop** to repeat the colour sequence. Everything inside a loop will happen as many times as you want. 
 
-Next, we are going to make our pattern carry on for longer by using a `repeat`{:class="crumblecontrol"} loop. 
-
-Everything inside our `repeat`{:class="crumblecontrol"} loop will happen as many times as we say, or we can use a `repeat forever`{:class="crumblecontrol"} loop to make it keep going for as long as the program is running or the batteries run out!
-
-In the Crumble software, a `repeat`{:class="crumblecontrol"} loop is written as a `do`{:class="crumblecontrol"} loop because we are coding what to `do`{:class="crumblecontrol"} and how many times to `do`{:class="crumblecontrol"} it.
+In the Crumble software, the loop block you need is called a `do`{:class="crumblecontrol"} loop. You can remember the name by thinking that you are creating code to `do`{:class="crumblecontrol"} something many times over.
 
 --- task ---
 
 Pull your colour sequence code away from the `program start`{:class="crumblebasic"} block.
 
-Grab a `do 10 times`{:class="crumblecontrol"} loop block from the `control`{:class="crumblecontrol"} block palette and connect it under the `program start`{:class="crumblebasic"} block.
+From the `control`{:class="crumblecontrol"} menu, grab a `do 10 times`{:class="crumblecontrol"} loop block. Connect the loop block below the `program start`{:class="crumblebasic"} block.
 
-Now connect your colour sequence code inside the `do 10 times`{:class="crumblecontrol"} loop block.
+Now put your colour sequence code **inside** the `do 10 times`{:class="crumblecontrol"} loop block.
 
 ![Repeat colour sequence 10 times code](images/sequenceLoop.png)
 
-If you like,  you can change the number of times in the `do 10 times`{:class="crumblecontrol"} loop block to change the number of times your colour sequence will repeat.
+If you want to change the number of times your colour sequence repeats, change the number in the `do`{:class="crumblecontrol"} loop block.
 
 Run your code to test it.
 
@@ -76,4 +81,6 @@ Run your code to test it.
 
 --- /print-only ---
 
-Look at the blocks in the `Sparkle`{:class="crumblesparkles"} palette. Which block could you add after the `do 10 times`{:class="crumblecontrol"} loop block to make your Sparkle turn off automatically after the last repeat cycle? 
+Look at the blocks in the `Sparkle`{:class="crumblesparkles"} menu.
+
+Which block could you add after the `do 10 times`{:class="crumblecontrol"} loop block to make your Sparkle turn off automatically after the last repeat cycle? 
