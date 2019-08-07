@@ -1,22 +1,28 @@
-## Colour sequence 2 - both Sparkles
+## Create a colour sequence for two Sparkles
 
-Now that you have one sparkle with a colour sequence, adding a sequence to the second will be easy.
+Now that you have one Sparkle with a colour sequence, adding a sequence for the second Sparkle is easy.
 
-First we'll add a sequence where both Sparkles change at the same time.
+First, make both Sparkles change colour at the same time.
 
 --- task ---
 
-Carrying right on from the code that we had before, in Colour sequence 1, add more `set sparkle 0 to`{:class="crumblesparkles"} blocks either from the `Sparkle`{:class="crumblesparkles"} blocks palette or by duplicating the ones that you already have. 
+Carry on with the code for 'sparkle 0'.
 
-Hint: We will have to change them to `set sparkle 1 to`{:class="crumblesparkles"} so it is easiest to change one and then duplicate that.
+Duplicate one of the `set sparkle 0 to`{:class="crumblesparkles"} blocks.
 
-Put one of the new `set sparkle 0 to`{:class="crumblesparkles"} blocks under each existing `set sparkle 0 to`{:class="crumblesparkles"} block and chnage the `0`{:class="crumblesparkles"}s to `1`{:class="crumblesparkles"}s to make them `set sparkle 1 to`{:class="crumblesparkles"} blocks.
+In the duplicated block, change the `0` to a `1`.
 
-Leave or adjust the wait times for a sequence speed that you like. You don't have to have all the wait times the same as each other.
+Now you have a `set sparkle 1 to`{:class="crumblesparkles"} block. Duplicate this block two times.
+
+Put one `set sparkle 1 to`{:class="crumblesparkles"} blocks below each `set sparkle 0 to`{:class="crumblesparkles"} block.
+
+If you like:
++ Change the colours in the `set sparkle 1 to`{:class="crumblesparkles"} blocks.
++ Adjust the `wait`{:class="crumblecontrol"} times.
 
 ![Adding Sparkle blocks for Sparkle 1](images/step7code1.png)
 
-Click the green play button and see what you have.
+Run the code by clicking on the green triangle **play** button, and watch what happens.
 
 --- /task ---
 
@@ -32,17 +38,17 @@ Click the green play button and see what you have.
 
 --- /print-only ---
 
-But there is no reason why you need to have the two Sparkles changing colour at the same time at all.
+There is no reason why the two Sparkles need to change colour at the same time.
 
 --- task ---
 
-You could move the blocks around into a different order but the easiest way to make them change at different times is to add a `wait`{:class="crumblecontrol"} block between the `set sparkle 0 to`{:class="crumblesparkles"} blocks and the `set sparkle 1 to`{:class="crumblesparkles"} blocks.
+The easiest way to make the Sparkles change colour at different times is to add a `wait`{:class="crumblecontrol"} block in between the `set sparkle 0 to`{:class="crumblesparkles"} blocks and the `set sparkle 1 to`{:class="crumblesparkles"} blocks.
 
-Again, adjust the wait times for a sequence speed that suits you and change the colours too if you like.
+Adjust the wait times for a sequence speed that you like.
 
 ![Adding wait blocks](images/step7code2.png)
 
-Click the green play button and see what your code does.
+Click on the green triangle **play** button and watch what happens.
 
 --- /task ---
 
@@ -58,17 +64,23 @@ Click the green play button and see what your code does.
 
 --- /print-only ---
 
-If you have a complicated sequence in mind it really helps to plan it out on a piece of paper first, but for now let's get creative and make a sequence where the two Sparkles chnage in any order, timings and colours you feel like.
+Now get creative and make a sequence where the two Sparkles change in any order, timing, and colours you feel like.
 
-That means you don't even have to alternate the Sparkles. You might have `Sparkle 0`{:class="crumblesparkles"} staying the same while `Sparkle 1`{:class="crumblesparkles"} flashes all the colours of the rainbow. What do you want your Sparkles to do?
+You don't even have to alternate the Sparkles. You could make `Sparkle 0`{:class="crumblesparkles"} stay the same while `Sparkle 1`{:class="crumblesparkles"} flashes all the colours of the rainbow.
+
+What do you want your Sparkles to do?
+
+If you want to create a complicated sequence, plan it out on of paper first.
 
 --- task ---
 
-Add `wait`{:class="crumblecontrol"} blocks and `set sparkle to`{:class="crumblesparkles"} blocks as you like to create whatever sequence you feel like. You really can't go wrong. Try to think about what your sequence will look like when you run it and then see if you were right.
+Add `wait`{:class="crumblecontrol"} blocks and `set sparkle to`{:class="crumblesparkles"} blocks to create whatever sequence you feel like.
+
+Think about what your sequence will look like. Then run your program to see whether it creates the sequence you want.
 
 ![Make your own sequence](images/step7code3.png)
 
-Click the green play button and see if your sequence is what you were expecting.
+Click on the green triangle **play** button and check that your sequence is what you expect.
 
 --- /task ---
 

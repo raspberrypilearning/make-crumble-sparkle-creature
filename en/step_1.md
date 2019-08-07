@@ -1,10 +1,10 @@
 ## Introduction
 
-You will use your making skills to build a model 'creature' using Crumble Sparkles for its eyes. You will write code using Crumble software to control how your creature's eyes light up.
+Create a model creature that has Crumble Sparkles as its eyes, and write code to control how your creature's eyes light up.
 
 ### What you will make
 
-It is up to you what your creature looks like and how its eyes flash, glow and change colour.
+It is up to you what your creature looks like and how its eyes flash, glow, and change colour.
 
 --- no-print ---
 
@@ -22,18 +22,15 @@ title: What you will need
 ---
 ### Hardware
 
-+ A PC, Mac or Chromebook with Crumble software installed and a USB port
-
-Note: The components below are all included in the Crumble starter kit but can also be bought separately.
-
-+ A Crumble controller
-+ Two Crumble Sparkles
-+ A 3xAA battery pack
-+ Crocodile leads
-+ Materials to make your 'creature', e.g. card, cardboard and pens
-+ tools to make your creature, e.g. glue or tape, and scissors
-
-Note: What materials and tools you need will depend on the creature you choose to make.
++ A computer with:
+    1. The Crumble software installed
+    1. A USB port
++ A Crumble starter kit, or the components bought separately:
+    1. A Crumble controller
+    1. Two Crumble Sparkles
+    1. A 3×AA battery pack
+    1. Crocodile clip cables
++ Materials and tools to make your creature, e.g. card, cardboard, pens, glue or tape, and scissors. **Note:** what materials and tools you need depends what you want your creature to look like.
 
 ### Software
 
@@ -51,8 +48,8 @@ title: What you will learn
 ---
 
 + How to connect multiple Crumble Sparkles to a Crumble controller
-+ How to randomise the colour of your Sparkles
-+ How to use variables to control the colour of your Sparkles
++ How to use variables to control the colour of your Crumble Sparkles
++ How to light up Crumble Sparkles in random colours
 
 --- /collapse ---
 

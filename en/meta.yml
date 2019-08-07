@@ -1,23 +1,23 @@
-title: make-crumble-sparkle-creature
+title: Crumble Sparkle creature
 hero_image: images/banner.png
-description: make-crumble-sparkle-creature description
+description: Create a fantastic creature with glowing eyes using a Crumble and Crumble Sparkles
 version: 4
 listed: false
 copyedit: false
 last_tested: "2019-05-01"
 steps:
   - title: Introduction
-  - title: Making your creature
-  - title: Connecting the Sparkles
-  - title: Coding two Sparkles
-  - title: Coding Sparkle colours using RGB values
-  - title: Colour sequence 1 - Sparkle 0
-  - title: Colour sequence 2 - both Sparkles
-  - title: "Challenge: Follow me light sequence"
+  - title: Invent your creature
+  - title: How to connect the Sparkles
+  - title: How to program two Sparkles
+  - title: How to set Sparkle colours using RGB values
+  - title: Create a colour sequence for one Sparkle
+  - title: Create a colour sequence for two Sparkles
+  - title: "Challenge: 'follow me' light sequence"
     challenge: true
-  - title: Colour sequence 3 - random Sparkles intervals
-  - title: Colour sequence 4 - random Sparkles colours
-  - title: Colour sequence 5 - totally random Sparkles
-  - title: Colour sequence 6 - gradual colour changes
-  - title: "Challenge: Pulsing light sequence"
+  - title: Create a colour sequence with random pauses
+  - title: Create a random colour sequence
+  - title: Create completely random Sparkle colour sequences
+  - title: Create gradual colour changes
+  - title: "Challenge: make the Sparkles pulse"
     challenge: true

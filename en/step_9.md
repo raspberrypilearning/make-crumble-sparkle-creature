@@ -1,10 +1,12 @@
-## Colour sequence 3 - random Sparkles intervals
+## Create a colour sequence with random pauses
 
-You are going to make your creature's eyes change at random intervals by using random numbers in the wait blocks.
+Make your creature's eyes change colour at random times by using random numbers in the `wait`{:class="crumblecontrol"} blocks.
 
 --- task ---
 
-Let's begin with the `program start`{:class="crumblebasic"} block and add a `do 10 times`{:class="crumblecontrol"} loop block from the `control`{:class="crumblecontrol"} block palette.
+Begin with the `program start`{:class="crumblebasic"} block.
+
+From the `control`{:class="crumblecontrol"} menu and add a `do 10 times`{:class="crumblecontrol"} loop block.
 
 ![Program start and repeat ten times blocks](images/sequence3_programStartAndLoop.png)
 
@@ -12,9 +14,9 @@ Let's begin with the `program start`{:class="crumblebasic"} block and add a `do 
 
 --- task ---
 
-Inside the `do 10 times`{:class="crumblecontrol"} loop, add two `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} RGB value blocks. 
+**Inside** the `do 10 times`{:class="crumblecontrol"} loop, add two `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} RGB value blocks. 
 
-Change the second from `Sparkle 0`{:class="crumblesparkles"} to `Sparkle 1`{:class="crumblesparkles"}.
+Change the **second** `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} RGB value block so it says `sparkle 1`{:class="crumblesparkles"}.
 
 ![Add set Sparkle blocks](images/sequence3_addSetSparkleBlocks.png)
 
@@ -22,21 +24,23 @@ Change the second from `Sparkle 0`{:class="crumblesparkles"} to `Sparkle 1`{:cla
 
 --- task ---
 
-Set the `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} RGB value blocks to values of your choice and add a `wait`{:class="crumblecontrol"} block under them.
+Set **both** `set sparkle 0 to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} RGB value blocks to colours of your choice.
+
+Attach a `wait`{:class="crumblecontrol"} block below.
 
 ![Set RGB values and add wait](images/sequence3_setRGBVauluesAndAddWait.png)
 
 --- /task ---
 
-Now you need another set of `set sparkle`{:class="crumblesparkles"} blocks and another wait block. You could pick them out from the block palettes as normal but the quickest way is to duplicate the ones that you already have.
+Now you need another set of `set sparkle`{:class="crumblesparkles"} blocks and another `wait`{:class="crumblecontrol"} block. The quickest way is to duplicate the blocks you already have.
 
-When you duplicate blocks in Crumble, you always copy the block you are on and all the blocks below it.
+When you duplicate blocks in Crumble, you duplicate the block you right-click on **and** all the blocks attached to it.
 
 --- task ---
 
-Right-click on the first `set sparkle`{:class="crumblesparkles"} block and click 'duplicate'.
+Right-click on the first `set sparkle`{:class="crumblesparkles"} block and then click on **duplicate**.
 
-Drag the duplicated blocks inside the `repeat`{:class="crumblecontrol"} loop underneath your existing `wait`{:class="crumblecontrol"} block.
+Drag the duplicated blocks inside the `repeat`{:class="crumblecontrol"} loop and below the `wait`{:class="crumblecontrol"} block that's already there.
 
 --- no-print ---
 
@@ -54,52 +58,59 @@ Drag the duplicated blocks inside the `repeat`{:class="crumblecontrol"} loop und
 
 --- task ---
 
-Change the values in the second pair of `set sparkle to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} RGB value blocks to different values of your choice.
+Change the colours of the second pair of `set sparkle to`{:class="crumblesparkles"}`0`{:class="block3myblocks"}`0`{:class="block3operators"}`0`{:class="block3motion"} RGB value blocks.
 
 ![Set second RGB values](images/sequence3_set2ndRGBVaulues.png)
 
 --- /task ---
 
-Now you're going to code the random wait between colour changes.
+Now you're going to create the random pause between colour changes.
 
 --- task ---
 
-From the `Operators`{:class="crumbleoperators"} block palette, grab a `random 0 to 10`{:class="crumbleoperators"} block and place one inside each of your two `wait`{:class="crumblecontrol"} blocks.
+From the `Operators`{:class="crumbleoperators"} menu, grab two `random 0 to 10`{:class="crumbleoperators"} blocks.
 
-If you had a `wait 1.0 seconds`{:class="crumblecontrol"} block, it will now wait a random amount between `0 to 10`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"}.
+Place one `random 0 to 10`{:class="crumbleoperators"} block **inside** each of your two `wait`{:class="crumblecontrol"} blocks.
 
-Change the random values to 1 and 3 to make a `wait`{:class="crumblecontrol"} `1 to 3`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"} block.
+Your `wait`{:class="crumblecontrol"} blocks now create pauses of a random length between `0 to 10`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"}.
+
+Inside **both** `random`{:class="crumbleoperators"} blocks, change the values to `1` and `3`.
+
+Now you have `wait`{:class="crumblecontrol"} `1 to 3`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"} blocks!
 
 ![Add random number blocks to the wait block](images/sequence3_addRandomNumberBlocks.png)
 
-Click the green play button and see what your code does and what colours you have created.
+Click on the green triangle **play** button to check what your code does.
 
 --- /task ---
 
 --- task ---
 
-Try replacing the `wait 1.0 seconds`{:class="crumblecontrol"} blocks with `wait 100 milliseconds`{:class="crumblecontrol"} blocks.
+Replace the `wait seconds`{:class="crumblecontrol"} blocks with `wait milliseconds`{:class="crumblecontrol"} blocks.
 
-Of course, `1 to 3`{:class="crumbleoperators"} `milliseconds`{:class="crumblecontrol"} is a tiny amount of time, so change the `random`{:class="crumbleoperators"} block values to something more suitable such as `300 to 2100`{:class="crumbleoperators"}. That would be the same as `0.3 to 2.1`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"}.
+Because `1 to 3`{:class="crumbleoperators"} `milliseconds`{:class="crumblecontrol"} is a tiny amount of time, change the `random`{:class="crumbleoperators"} block values to something more suitable, for example `300 to 2100`{:class="crumbleoperators"}. That is the same as `0.3 to 2.1`{:class="crumbleoperators"} `seconds`{:class="crumblecontrol"}.
 
 ![Replace the wait blocks](images/sequence3_replaceWaitBlocks.png)
 
-Click the green play button and see how the intervals have changed.
+Click on the green triangle **play** button to check how different your colour sequence looks now.
 
 --- /task ---
 
-Finally, let's try a simple variation to make the two eyes change at different times. 
-In the example, I have reduced the random wait times to make the sequence run faster.
+Finally, make the two eyes change at different times. 
 
 --- task ---
 
-Duplicate one of the `random`{:class="crumbleoperators"} `wait`{:class="crumblecontrol"} blocks twice and place them so that there is a `wait`{:class="crumblecontrol"} block after each `set sparkle to`{:class="crumblesparkles"} block. 
+Duplicate one of the `wait`{:class="crumblecontrol"}`random`{:class="crumbleoperators"} blocks **twice**.
+
+Place the two new `wait`{:class="crumblecontrol"}`random`{:class="crumbleoperators"} blocks so that there is a `wait`{:class="crumblecontrol"} block after each `set sparkle to`{:class="crumblesparkles"} block. 
 
 ![Add more wait blocks](images/sequence3_moreWaitBlocks.png)
 
-Now the Sparkle eyes will take it in turns to change colour.
+In the example, I have reduced the values in the `wait`{:class="crumblecontrol"}`random`{:class="crumbleoperators"} blocks to make the sequence run faster.
 
-Click the green play button, observe the change and decide which sequence you like best.
+Click on the green triangle **play** button. Now your creature's Sparkle eyes should take it in turns to change colour.
+
+Observe the colour changes. Which sequence do you like best?
 
 --- /task ---
 
