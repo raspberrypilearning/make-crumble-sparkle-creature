@@ -58,7 +58,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](http://raspberrypi.org/en/make-crumble-sparkle-creature-go/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://raspberrypi.org/en/make-crumble-sparkle-creature-go/print){:target="_blank"}.
 
 [Here is a link to the code solutions for this project](http://rpf.io/p/make-crumble-sparkle-creature-get).
 
