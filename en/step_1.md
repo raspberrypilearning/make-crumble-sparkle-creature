@@ -60,6 +60,6 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/make-crumble-sparkle-creature-go/print){:target="_blank"}.
 
-[Here is a link to the code solutions for this project](http://rpf.io/p/make-crumble-sparkle-creature-get).
+[Here is a link to the code solutions for this project](http://rpf.io/p/en/make-crumble-sparkle-creature-get).
 
 --- /collapse ---
