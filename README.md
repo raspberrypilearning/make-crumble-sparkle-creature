@@ -1,4 +1,4 @@
-# make-crumble-sparkle-creature
+# Make a Crumble Sparkle Creature
 
 ![make-crumble-sparkle-creature](banner.png)
 
