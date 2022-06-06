@@ -9,9 +9,10 @@ copyedit: true
 last_tested: '2019-08-14'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Invent your creature
 - title: How to connect the Sparkles
+  completion:
+  - engaged
 - title: How to program two Sparkles
 - title: How to set Sparkle colours using RGB values
 - title: Create a colour sequence for one Sparkle
@@ -21,8 +22,9 @@ steps:
 - title: Create a colour sequence with random pauses
 - title: Create a random colour sequence
 - title: Create completely random Sparkle colour sequences
-  completion: internal
 - title: Create gradual colour changes
+  completion:
+  - internal
 - title: 'Challenge: make the Sparkles pulse'
   challenge: true
 - title: What next?
