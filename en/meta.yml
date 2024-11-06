@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Create a fantastic creature with glowing eyes using a Crumble and Crumble
   Sparkles
 version: 5
-listed: true
+listed: false
 copyedit: true
 last_tested: '2019-08-14'
 steps:
